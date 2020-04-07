@@ -1,4 +1,9 @@
 # Change Log
+## 2.0.0 (2020-03-07)
+
+**Bug fixes:**
+- Fixed manifestWriter path to AndroidManifest.xml
+- Pull request https://github.com/nordnet/cordova-universal-links-plugin/pull/122
 
 ## 1.2.1 (2016-10-23)
 
