@@ -1,6 +1,6 @@
-# THIS PROJECT IS DEPRECATED
+# THIS PROJECT IS FORK
 
-We are not using this repo anymore, and we lack the manpower and the experience needed to maintain it. We are aware of the inconveniece that this may cause you. Feel free to use it as is, or create your own fork. See https://github.com/nordnet/cordova-universal-links-plugin/issues/160 for more information.
+https://github.com/nordnet/cordova-universal-links-plugin
   
 
 # Cordova Universal Links Plugin
