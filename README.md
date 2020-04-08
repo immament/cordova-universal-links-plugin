@@ -54,7 +54,7 @@ It is important not only to redirect users to your app from the web, but also pr
 This requires cordova 5.0+ (current stable 1.2.1)
 
 ```sh
-cordova plugin add cordova-universal-links-plugin
+cordova plugin add cordova-plugin-universal-links-fix
 ```
 
 It is also possible to install via repo url directly (**unstable**)
@@ -129,7 +129,7 @@ If you are still using Xcode 6 and there is no way for you to upgrade right now 
 
   ```sh
   cd /Workspace/Mobile/CoolApp
-  cordova plugin add /Workspace/Mobile/CordovaPlugins/cordova-universal-links-plugin/
+  cordova plugin add /Workspace/Mobile/CordovaPlugins/cordova-plugin-universal-links-fix/
   ```
 
 Now you can build your project in Xcode 6.
@@ -375,7 +375,7 @@ Now it's time for some examples. In here we are gonna use Android, because it is
 2. Add UL plugin:
 
   ```sh
-  cordova plugin add cordova-universal-links-plugin
+  cordova plugin add cordova-plugin-universal-links-fix
   ```
 
 3. Add `<universal-links>` preference into `config.xml`:
@@ -643,7 +643,7 @@ Let's create new application to play with:
 2. Add UL plugin:
 
   ```sh
-  cordova plugin add cordova-universal-links-plugin
+  cordova plugin add cordova-plugin-universal-links-fix
   ```
 
 3. Add `<universal-links>` preference into `config.xml` (`TestAndroidApp/config.xml`):
@@ -835,7 +835,7 @@ Step-by-step guide:
   cordova create TestProject com.example.ul TestProject
   cd ./TestProject
   cordova platform add ios
-  cordova plugin add cordova-universal-links-plugin
+  cordova plugin add cordova-plugin-universal-links-fix
   ```
 
 6. Add `bnc.lt` and your other hosts into `config.xml`:
