@@ -1,5 +1,5 @@
 # Change Log
-## 2.0.0 (2020-03-07)
+## 2.0.2 (2020-03-07)
 
 **Bug fixes:**
 - Fixed manifestWriter path to AndroidManifest.xml
